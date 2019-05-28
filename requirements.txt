@@ -1,0 +1,13 @@
+django>=2.1.2
+django-pipeline
+django-bootstrap3
+django-debug-toolbar
+django-extensions
+django-formtools
+django-storages
+python-dateutil
+dj-database-url
+boto3
+psycopg2
+uwsgi
+requests
