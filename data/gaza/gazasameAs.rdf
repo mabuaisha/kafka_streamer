@@ -1,0 +1,1719 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns:osm="https://raw.githubusercontent.com/birzeitknowledgegraph-2019/Ontology/master/osm_v2.rdf#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema-datatypes">
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4466418798">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4466418798</osm:id>
+        <osm:latitude>31.5048236</osm:latitude>
+        <osm:longitude>34.4632304</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042091/"/>
+        <osm:amenity>bank</osm:amenity>
+        <osm:name>بنك فلسطي</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5315327621">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5315327621</osm:id>
+        <osm:latitude>31.5031858</osm:latitude>
+        <osm:longitude>34.4668402</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042077/"/>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>الزهراء فار</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5315327624">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5315327624</osm:id>
+        <osm:latitude>31.530421999999998</osm:latitude>
+        <osm:longitude>34.4551908</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/7302441/"/>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>سميا الاول</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5315327625">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5315327625</osm:id>
+        <osm:latitude>31.5270608</osm:latitude>
+        <osm:longitude>34.483677</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/281129/"/>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>ص المركزيه ابو ضيا</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5315327721">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5315327721</osm:id>
+        <osm:latitude>31.5189855</osm:latitude>
+        <osm:longitude>34.444433200000006</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041971/"/>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>ص رو</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4316435497">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4316435497</osm:id>
+        <osm:latitude>31.404619899999997</osm:latitude>
+        <osm:longitude>34.33835070000001</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8051608/"/>
+        <osm:amenity>waste_baske</osm:amenity>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/1195062824">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>1195062824</osm:id>
+        <osm:latitude>31.5234436</osm:latitude>
+        <osm:longitude>34.4333598</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041258/"/>
+        <osm:amenity>pu</osm:amenity>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4908646621">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4908646621</osm:id>
+        <osm:latitude>31.505718199999997</osm:latitude>
+        <osm:longitude>34.462212799999996</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042092/"/>
+        <osm:name xml:lang="ar">بنك الأردن</osm:name>
+        <osm:amenity>bank</osm:amenity>
+        <osm:name>بنك الأرد</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/1634494851">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>1634494851</osm:id>
+        <osm:latitude>31.518328399999998</osm:latitude>
+        <osm:longitude>34.4453561</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041972/"/>
+        <osm:amenity>atm</osm:amenity>
+        <osm:fee>شركة الوساطة للاوراق المالية</osm:fee>
+        <osm:operator>شركة الوساطة للاوراق المالي</osm:operator>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/3941074633">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>3941074633</osm:id>
+        <osm:latitude>31.367351899999996</osm:latitude>
+        <osm:longitude>34.2944072</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/7730637/"/>
+        <osm:name xml:lang="ar">مطار غوش قطيف</osm:name>
+        <osm:alt_name>Gaza Airstrip</osm:alt_name>
+        <osm:amenity>disused</osm:amenity>
+        <osm:name>مطار غوش قطيف</osm:name>
+        <osm:name xml:lang="en">Gush Katif Airport</osm:name>
+        <osm:wikipedia>ar:مطار غوش قطيف</osm:wikipedia>
+        <owl:sameAs rdf:resource="https://wikidata.org/entity/Q3275388"/>
+        <osm:wikidata>Q3275388</osm:wikidata>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4639315789">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4639315789</osm:id>
+        <osm:latitude>31.5158849</osm:latitude>
+        <osm:longitude>34.4470854</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041978/"/>
+        <osm:name xml:lang="ar">البنك العقاري المصري العربي</osm:name>
+        <osm:amenity>bank</osm:amenity>
+        <osm:name>البنك العقاري المصري العربي</osm:name>
+        <osm:street>Al Shuhada</osm:street>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4770115822">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4770115822</osm:id>
+        <osm:latitude>31.507432</osm:latitude>
+        <osm:longitude>34.4635107</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042068/"/>
+        <osm:name xml:lang="ar">كوفي شوب تمر حنة</osm:name>
+        <osm:amenity>cafe</osm:amenity>
+        <osm:name>كوفي شوب تمر حنة</osm:name>
+        <osm:street>Al-Wehda Stree</osm:street>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4376215693">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4376215693</osm:id>
+        <osm:latitude>31.519273</osm:latitude>
+        <osm:longitude>34.442161</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042001/"/>
+        <osm:name xml:lang="ar">هاني بي Honey Bee Coffee</osm:name>
+        <osm:internet_access>wlan</osm:internet_access>
+        <osm:amenity>cafe</osm:amenity>
+        <osm:name>قهوة هاني بي</osm:name>
+        <osm:opening_hours>Mo-Su 10:00-01:00</osm:opening_hours>
+        <osm:cuisine>bagel;donut;pancake;ice_cream;cake;tea;coffee_shop</osm:cuisine>
+        <osm:name xml:lang="en">Honey Bee Coffee</osm:name>
+        <osm:street>شارع المجدل Al-Majdal Stree</osm:street>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4385214091">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4385214091</osm:id>
+        <osm:latitude>31.520427299999998</osm:latitude>
+        <osm:longitude>34.440995</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041271/"/>
+        <osm:name xml:lang="ar">مدرسة المتميزون</osm:name>
+        <osm:amenity>school</osm:amenity>
+        <osm:name>مدرسة المتميزو</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5325083129">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5325083129</osm:id>
+        <osm:latitude>31.5303907</osm:latitude>
+        <osm:longitude>34.4551929</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/7302441/"/>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>ص سماالاولى غز</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5325106726">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5325106726</osm:id>
+        <osm:latitude>31.526882399999998</osm:latitude>
+        <osm:longitude>34.483891899999996</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/281129/"/>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>ص المركزيه حماده جبالي</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4571426591">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4571426591</osm:id>
+        <osm:latitude>31.3441043</osm:latitude>
+        <osm:longitude>34.3044906</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8051625/"/>
+        <osm:name xml:lang="ar">مؤسسة فاتن ( فرع خانيونس )</osm:name>
+        <osm:amenity>bank</osm:amenity>
+        <osm:name>مؤسسة فاتن ( فرع خانيونس )</osm:name>
+        <osm:name xml:lang="en">Faten Co. ( Khan Younis Branch</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4304451394">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4304451394</osm:id>
+        <osm:latitude>31.4141374</osm:latitude>
+        <osm:longitude>34.3394714</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8051603/"/>
+        <osm:amenity>waste_baske</osm:amenity>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/6320823387">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>6320823387</osm:id>
+        <osm:latitude>31.5278544</osm:latitude>
+        <osm:longitude>34.437371899999995</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041264/"/>
+        <osm:amenity>restaurant</osm:amenity>
+        <osm:name>مطعم السلام - أبو حصيرة</osm:name>
+        <osm:street>Al Rashee</osm:street>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4550908693">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4550908693</osm:id>
+        <osm:latitude>31.518467699999995</osm:latitude>
+        <osm:longitude>34.4457481</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041975/"/>
+        <osm:name xml:lang="ar">مطعم القدس العتيقة</osm:name>
+        <osm:amenity>restaurant</osm:amenity>
+        <osm:name>مطعم القدس العتيقة</osm:name>
+        <osm:name xml:lang="en">Alquds al3atiq</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4885767621">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4885767621</osm:id>
+        <osm:latitude>31.4221885</osm:latitude>
+        <osm:longitude>34.3846416</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/281086/"/>
+        <osm:name xml:lang="ar">مكتب تاكسيات أصلان</osm:name>
+        <osm:phone>082563025</osm:phone>
+        <osm:amenity>car_rental</osm:amenity>
+        <osm:name>مكتب تاكسيات أصلان</osm:name>
+        <osm:opening_hours>24/7</osm:opening_hours>
+        <osm:street>شارع السو</osm:street>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/2614522390">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>2614522390</osm:id>
+        <osm:latitude>31.502833199999998</osm:latitude>
+        <osm:longitude>34.4667179</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042077/"/>
+        <osm:name xml:lang="ar">المدرسة الهاشمية للبنات ابتدائي</osm:name>
+        <osm:amenity>school</osm:amenity>
+        <osm:name>Al-Hashemeya Schoo</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/2614524950">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>2614524950</osm:id>
+        <osm:latitude>31.502563300000002</osm:latitude>
+        <osm:longitude>34.466304799999996</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042077/"/>
+        <osm:name xml:lang="ar">مدرسة ابن الهيثم الابتدائية للبنين</osm:name>
+        <osm:amenity>school</osm:amenity>
+        <osm:name>EBN-ALHAYTHAM Schoo</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5646656721">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5646656721</osm:id>
+        <osm:latitude>31.3394686</osm:latitude>
+        <osm:longitude>34.304969799999995</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8051637/"/>
+        <osm:amenity>place_of_worship</osm:amenity>
+        <osm:name>مسجد الشهدا</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4952509726">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4952509726</osm:id>
+        <osm:latitude>31.318853100000002</osm:latitude>
+        <osm:longitude>34.3396799</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/281165/"/>
+        <osm:name xml:lang="ar">سعد الشواف</osm:name>
+        <osm:amenity>yes</osm:amenity>
+        <osm:name>سعد الشوا</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/2386373260">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>2386373260</osm:id>
+        <osm:latitude>31.518031300000004</osm:latitude>
+        <osm:longitude>34.4445494</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041972/"/>
+        <osm:wheelchair>no</osm:wheelchair>
+        <osm:amenity>restaurant</osm:amenity>
+        <osm:name>مطعم زهر الليمو</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4748830421">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4748830421</osm:id>
+        <osm:latitude>31.5227853</osm:latitude>
+        <osm:longitude>34.444371200000006</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041272/"/>
+        <osm:name xml:lang="ar">المدرسة الامريكية</osm:name>
+        <osm:amenity>school</osm:amenity>
+        <osm:name>المدرسة الامريكي</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4748830422">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4748830422</osm:id>
+        <osm:latitude>31.520994</osm:latitude>
+        <osm:longitude>34.4412506</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041271/"/>
+        <osm:name xml:lang="ar">المدرسة الامريكية</osm:name>
+        <osm:amenity>school</osm:amenity>
+        <osm:name>المدرسة الامريكي</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5460602224">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5460602224</osm:id>
+        <osm:latitude>31.3342163</osm:latitude>
+        <osm:longitude>34.3103685</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8051638/"/>
+        <osm:name xml:lang="ar">مسجد ابن القيم</osm:name>
+        <osm:amenity>place_of_worship</osm:amenity>
+        <osm:name>مسجد ابن القي</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5460602521">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5460602521</osm:id>
+        <osm:latitude>31.520077399999998</osm:latitude>
+        <osm:longitude>34.4351496</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041265/"/>
+        <osm:name xml:lang="ar">مسجد زيد بن حارثة</osm:name>
+        <osm:amenity>place_of_worship</osm:amenity>
+        <osm:name>مسجد زيد بن حارث</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/2296721089">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>2296721089</osm:id>
+        <osm:latitude>31.536185999999997</osm:latitude>
+        <osm:longitude>34.4607858</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041667/"/>
+        <osm:name xml:lang="ar">شركة جوال فرع النصر</osm:name>
+        <osm:amenity>townhall</osm:amenity>
+        <osm:name>Jawwal Nasser Showroo</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5493731325">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5493731325</osm:id>
+        <osm:latitude>31.5174525</osm:latitude>
+        <osm:longitude>34.44457620000001</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041981/"/>
+        <osm:amenity>community_centre</osm:amenity>
+        <osm:name xml:lang="en">vision plu</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4305674991">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4305674991</osm:id>
+        <osm:latitude>31.4071156</osm:latitude>
+        <osm:longitude>34.3351769</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8068833/"/>
+        <osm:amenity>waste_baske</osm:amenity>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504252582">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504252582</osm:id>
+        <osm:latitude>31.507238899999997</osm:latitude>
+        <osm:longitude>34.464011799999994</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042079/"/>
+        <osm:name xml:lang="ar">مطحنة أبو حصيرة الاولى</osm:name>
+        <osm:amenity>shop</osm:amenity>
+        <osm:name>مطحنة أبو حصيرة</osm:name>
+        <osm:name xml:lang="en">Abu Hasera mil</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504253012">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504253012</osm:id>
+        <osm:latitude>31.5226998</osm:latitude>
+        <osm:longitude>34.4408013</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041203/"/>
+        <osm:name xml:lang="ar">دائرة التوثيق والمخطوطات والآثار</osm:name>
+        <osm:amenity>public_building</osm:amenity>
+        <osm:name>Documentation and Heritage Departmen</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504255368">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504255368</osm:id>
+        <osm:latitude>31.5086855</osm:latitude>
+        <osm:longitude>34.4617709</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042069/"/>
+        <osm:name xml:lang="ar">مسجد الشيخ خالد</osm:name>
+        <osm:amenity>place_of_worship</osm:amenity>
+        <osm:name>Al-Sheikh Khalid Mosque</osm:name>
+        <osm:religion>muslim</osm:religion>
+        <osm:denomination>sunn</osm:denomination>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504257007">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504257007</osm:id>
+        <osm:latitude>31.5213678</osm:latitude>
+        <osm:longitude>34.442119399999996</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041202/"/>
+        <osm:name xml:lang="ar">سلطة الترخيص</osm:name>
+        <osm:amenity>public_building</osm:amenity>
+        <osm:name>Licence Authorit</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504257104">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504257104</osm:id>
+        <osm:latitude>31.514507000000002</osm:latitude>
+        <osm:longitude>34.4414829</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041247/"/>
+        <osm:name xml:lang="ar">الجامعة الإسلامية المدخل الشمالي</osm:name>
+        <osm:amenity>universit</osm:amenity>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504259355">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504259355</osm:id>
+        <osm:latitude>31.506574</osm:latitude>
+        <osm:longitude>34.461307299999994</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042095/"/>
+        <osm:name xml:lang="ar">البنك العربي</osm:name>
+        <osm:amenity>bank</osm:amenity>
+        <osm:name>البنك العربي</osm:name>
+        <osm:name xml:lang="en">Arab Ban</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504260884">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504260884</osm:id>
+        <osm:latitude>31.5241376</osm:latitude>
+        <osm:longitude>34.4340336</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041259/"/>
+        <osm:name xml:lang="ar">الدفاع المدنى</osm:name>
+        <osm:amenity>public_building</osm:amenity>
+        <osm:name>Civil Defens</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504261187">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504261187</osm:id>
+        <osm:latitude>31.522369899999998</osm:latitude>
+        <osm:longitude>34.432382200000006</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041257/"/>
+        <osm:name xml:lang="ar">مطعم المرسى</osm:name>
+        <osm:amenity>restaurant</osm:amenity>
+        <osm:name>Al-marsa Restaurent</osm:name>
+        <osm:cuisine>regiona</osm:cuisine>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504263745">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504263745</osm:id>
+        <osm:latitude>31.506586900000002</osm:latitude>
+        <osm:longitude>34.46155170000001</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042095/"/>
+        <osm:name xml:lang="ar">مركز فلسطين للخدمات المالية</osm:name>
+        <osm:amenity>bureau_de_change</osm:amenity>
+        <osm:name>Palestine Center for Money Service</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504264164">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504264164</osm:id>
+        <osm:latitude>31.5062282</osm:latitude>
+        <osm:longitude>34.4626005</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042092/"/>
+        <osm:name xml:lang="ar">صيدلية فلسطين</osm:name>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>Palestine Pharmac</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504264355">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504264355</osm:id>
+        <osm:latitude>31.5046078</osm:latitude>
+        <osm:longitude>34.4356459</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/7870544/"/>
+        <osm:name xml:lang="ar">جامعة الاقصى "الرياضة"</osm:name>
+        <osm:amenity>university</osm:amenity>
+        <osm:name>مدرسة الجليل الثانوية للبنات</osm:name>
+        <osm:name xml:lang="en">Al-Jaleel Secondry Female Schoo</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504264436">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504264436</osm:id>
+        <osm:latitude>31.506009499999998</osm:latitude>
+        <osm:longitude>34.462403</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042092/"/>
+        <osm:name xml:lang="ar">بنك الاردن</osm:name>
+        <osm:amenity>bank</osm:amenity>
+        <osm:name>بنك الاردن</osm:name>
+        <osm:name xml:lang="en">The Jordan Ban</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504268533">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504268533</osm:id>
+        <osm:latitude>31.504414500000003</osm:latitude>
+        <osm:longitude>34.465485799999996</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042074/"/>
+        <osm:name xml:lang="ar">مكتبة اليازجي</osm:name>
+        <osm:amenity>library</osm:amenity>
+        <osm:name>Al-Yazji Librar</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504269537">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504269537</osm:id>
+        <osm:latitude>31.5273983</osm:latitude>
+        <osm:longitude>34.4516974</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041658/"/>
+        <osm:name xml:lang="ar">صيدلية الصفا</osm:name>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>Al-Safa Pharmac</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504267022">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504267022</osm:id>
+        <osm:latitude>31.523096399999996</osm:latitude>
+        <osm:longitude>34.444323</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041272/"/>
+        <osm:name xml:lang="ar">الخزندار لغسيل السيارات</osm:name>
+        <osm:automated>yes</osm:automated>
+        <osm:amenity>car_wash</osm:amenity>
+        <osm:name>Al-Khozendar Car Washing Station</osm:name>
+        <osm:self_service>n</osm:self_service>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504267106">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504267106</osm:id>
+        <osm:latitude>31.5055401</osm:latitude>
+        <osm:longitude>34.4637665</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042096/"/>
+        <osm:name xml:lang="ar">مسجد الهنود</osm:name>
+        <osm:amenity>place_of_worship</osm:amenity>
+        <osm:name>Al Hanood Mosque</osm:name>
+        <osm:religion>muslim</osm:religion>
+        <osm:denomination>sunn</osm:denomination>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504267233">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504267233</osm:id>
+        <osm:latitude>31.5207108</osm:latitude>
+        <osm:longitude>34.44278370000001</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041200/"/>
+        <osm:name xml:lang="ar">مركز رشاد الشوا الثقافي</osm:name>
+        <osm:amenity>public_building</osm:amenity>
+        <osm:name>Rashad Al Shawa Cultural Cente</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504271766">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504271766</osm:id>
+        <osm:latitude>31.507413699999997</osm:latitude>
+        <osm:longitude>34.4601578</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042093/"/>
+        <osm:name xml:lang="ar">شركة الاتحاد للسياحة والسفر</osm:name>
+        <osm:amenity>company</osm:amenity>
+        <osm:name>Al etehad torist company</osm:name>
+        <osm:office>compan</osm:office>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504272737">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504272737</osm:id>
+        <osm:latitude>31.523767</osm:latitude>
+        <osm:longitude>34.444554600000004</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/7870487/"/>
+        <osm:wheelchair>no</osm:wheelchair>
+        <osm:name xml:lang="ar">مسجد الشفاء</osm:name>
+        <osm:amenity>place_of_worship</osm:amenity>
+        <osm:name>Al-Shefa'a Mosque</osm:name>
+        <osm:religion>muslim</osm:religion>
+        <osm:denomination>sunn</osm:denomination>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504272781">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504272781</osm:id>
+        <osm:latitude>31.517878399999997</osm:latitude>
+        <osm:longitude>34.435001899999996</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041252/"/>
+        <osm:name xml:lang="ar">ديوان قاضي القضاة</osm:name>
+        <osm:amenity>courthouse</osm:amenity>
+        <osm:name>Elimination of the Court of Justic</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504272995">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504272995</osm:id>
+        <osm:latitude>31.5076115</osm:latitude>
+        <osm:longitude>34.459611100000004</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042093/"/>
+        <osm:name xml:lang="ar">شركة العشي للتجارة العامة</osm:name>
+        <osm:shop>convenience</osm:shop>
+        <osm:amenity>company</osm:amenity>
+        <osm:name>Al-Ashi Co. for General Trading</osm:name>
+        <osm:office>compan</osm:office>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504274983">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504274983</osm:id>
+        <osm:latitude>31.505981300000002</osm:latitude>
+        <osm:longitude>34.462332399999994</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042092/"/>
+        <osm:name xml:lang="ar">صيدليةنصر</osm:name>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>Al Nasser Pharmac</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504275789">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504275789</osm:id>
+        <osm:latitude>31.5209854</osm:latitude>
+        <osm:longitude>34.4347963</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041266/"/>
+        <osm:name xml:lang="ar">روضة بيسان</osm:name>
+        <osm:amenity>kindergarten</osm:amenity>
+        <osm:name>Bisan Kindergarte</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504276192">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504276192</osm:id>
+        <osm:latitude>31.507816100000003</osm:latitude>
+        <osm:longitude>34.4594044</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042093/"/>
+        <osm:name xml:lang="ar">مطعم زهران</osm:name>
+        <osm:amenity>restaurant</osm:amenity>
+        <osm:name>Zahran Restaurant</osm:name>
+        <osm:cuisine>regiona</osm:cuisine>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504276957">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504276957</osm:id>
+        <osm:latitude>31.5313582</osm:latitude>
+        <osm:longitude>34.4447408</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041659/"/>
+        <osm:name xml:lang="ar">محطة الغول للبترول</osm:name>
+        <osm:amenity>fuel</osm:amenity>
+        <osm:name>Al-Ghol Petrol Statio</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504277165">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504277165</osm:id>
+        <osm:latitude>31.5177369</osm:latitude>
+        <osm:longitude>34.434610799999994</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041252/"/>
+        <osm:name xml:lang="ar">حلويات ساق الله</osm:name>
+        <osm:amenity>restaurant</osm:amenity>
+        <osm:name>Saqallah Sweets</osm:name>
+        <osm:cuisine>regiona</osm:cuisine>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504277817">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504277817</osm:id>
+        <osm:latitude>31.515434399999997</osm:latitude>
+        <osm:longitude>34.4493841</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041979/"/>
+        <osm:name xml:lang="ar">بوظة كاظم</osm:name>
+        <osm:amenity>biergarten</osm:amenity>
+        <osm:name>Kazem Ice Crea</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504278079">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504278079</osm:id>
+        <osm:latitude>31.5063458</osm:latitude>
+        <osm:longitude>34.462475899999994</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042092/"/>
+        <osm:name xml:lang="ar">شاورما الشيخ</osm:name>
+        <osm:amenity>restaurant</osm:amenity>
+        <osm:name>Al Sheikh Shawerm</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504278152">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504278152</osm:id>
+        <osm:latitude>31.5067462</osm:latitude>
+        <osm:longitude>34.461158600000005</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042095/"/>
+        <osm:name xml:lang="ar">مسجد الشيخ شعبان</osm:name>
+        <osm:amenity>place_of_worship</osm:amenity>
+        <osm:name>Al-Sheikh Sha'ban Mosque</osm:name>
+        <osm:religion>muslim</osm:religion>
+        <osm:denomination>sunn</osm:denomination>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504280020">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504280020</osm:id>
+        <osm:latitude>31.5089092</osm:latitude>
+        <osm:longitude>34.462363399999994</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042069/"/>
+        <osm:name xml:lang="ar">مطبعة الرسالة</osm:name>
+        <osm:amenity>printer</osm:amenity>
+        <osm:name>Al Resalah Printe</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504281932">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504281932</osm:id>
+        <osm:latitude>31.536083500000004</osm:latitude>
+        <osm:longitude>34.4613341</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041667/"/>
+        <osm:name xml:lang="ar">بنك فلسطين-فرع النصر</osm:name>
+        <osm:amenity>bank</osm:amenity>
+        <osm:name>بنك فلسطين-فرع النصر</osm:name>
+        <osm:name xml:lang="en">Bank Of Palestine - Al-Naser Branch</osm:name>
+        <osm:atm>ye</osm:atm>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504282471">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504282471</osm:id>
+        <osm:latitude>31.517373499999998</osm:latitude>
+        <osm:longitude>34.4469166</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041977/"/>
+        <osm:name xml:lang="ar">صيدلية دبي</osm:name>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>Dubai Pharmac</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504283140">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504283140</osm:id>
+        <osm:latitude>31.530642999999998</osm:latitude>
+        <osm:longitude>34.443984</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041655/"/>
+        <osm:name xml:lang="ar">صيدلية الشيماء</osm:name>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>Al-Shayma Pharmac</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504284250">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504284250</osm:id>
+        <osm:latitude>31.5180049</osm:latitude>
+        <osm:longitude>34.445871999999994</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041975/"/>
+        <osm:name xml:lang="ar">بنك القاهرة عمان</osm:name>
+        <osm:amenity>bank</osm:amenity>
+        <osm:name>بنك القاهرة عمان</osm:name>
+        <osm:name xml:lang="en">Cairo Amman Bank</osm:name>
+        <osm:atm>ye</osm:atm>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504289281">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504289281</osm:id>
+        <osm:latitude>31.516356</osm:latitude>
+        <osm:longitude>34.437853600000004</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041254/"/>
+        <osm:name xml:lang="ar">موقف باصات الجامعات</osm:name>
+        <osm:amenity>bus_station</osm:amenity>
+        <osm:name>Alazhar Bus Statio</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504291989">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504291989</osm:id>
+        <osm:latitude>31.508752100000002</osm:latitude>
+        <osm:longitude>34.4612447</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042070/"/>
+        <osm:name xml:lang="ar">مسجد الشيخ زكريا</osm:name>
+        <osm:amenity>place_of_worship</osm:amenity>
+        <osm:name>Al-Sheikh Zakareya Mosque</osm:name>
+        <osm:religion>muslim</osm:religion>
+        <osm:denomination>sunn</osm:denomination>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504292617">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504292617</osm:id>
+        <osm:latitude>31.531641999999998</osm:latitude>
+        <osm:longitude>34.444861700000004</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041659/"/>
+        <osm:name xml:lang="ar">مكتب البلعاوي للصرافة</osm:name>
+        <osm:amenity>bureau_de_change</osm:amenity>
+        <osm:name>AL-Bala'awy Money Change Offic</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504293294">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504293294</osm:id>
+        <osm:latitude>31.517918599999998</osm:latitude>
+        <osm:longitude>34.435061700000006</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041252/"/>
+        <osm:name xml:lang="ar">صيدلية أبو العينين</osm:name>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>Abu Aleneen Pharmac</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504295962">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504295962</osm:id>
+        <osm:latitude>31.5155885</osm:latitude>
+        <osm:longitude>34.4491516</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041979/"/>
+        <osm:wheelchair>yes</osm:wheelchair>
+        <osm:name xml:lang="ar">البنك الوطني الاسلامي</osm:name>
+        <osm:amenity>bank</osm:amenity>
+        <osm:name>البنك الوطني الاسلامي</osm:name>
+        <osm:name xml:lang="en">Islamic National Bank</osm:name>
+        <osm:atm>n</osm:atm>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504296015">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504296015</osm:id>
+        <osm:latitude>31.5200049</osm:latitude>
+        <osm:longitude>34.443833500000004</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041198/"/>
+        <osm:name xml:lang="ar">المجلس التشريعي الفلسطيني</osm:name>
+        <osm:amenity>townhall</osm:amenity>
+        <osm:name>Palestinian Legislative Counci</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504296524">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504296524</osm:id>
+        <osm:latitude>31.51822</osm:latitude>
+        <osm:longitude>34.4452591</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041972/"/>
+        <osm:wheelchair>no</osm:wheelchair>
+        <osm:name xml:lang="ar">بنك فلسطين</osm:name>
+        <osm:amenity>bank</osm:amenity>
+        <osm:name>بنك فلسطين</osm:name>
+        <osm:name xml:lang="en">Bank of Palestine - Remal Branch</osm:name>
+        <osm:atm>ye</osm:atm>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504297336">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504297336</osm:id>
+        <osm:latitude>31.527516</osm:latitude>
+        <osm:longitude>34.437623200000004</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041264/"/>
+        <osm:amenity>restaurant</osm:amenity>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504297622">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504297622</osm:id>
+        <osm:latitude>31.5221196</osm:latitude>
+        <osm:longitude>34.438906</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041268/"/>
+        <osm:name xml:lang="ar">مركز الصفوة الطبي</osm:name>
+        <osm:amenity>doctors</osm:amenity>
+        <osm:name>Al-Safwa Medical Cente</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504298036">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504298036</osm:id>
+        <osm:latitude>31.527624300000003</osm:latitude>
+        <osm:longitude>34.4516672</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041658/"/>
+        <osm:name xml:lang="ar">مكتبة النهضة</osm:name>
+        <osm:amenity>library</osm:amenity>
+        <osm:name>Al-Nahda Librar</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504298056">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504298056</osm:id>
+        <osm:latitude>31.5272986</osm:latitude>
+        <osm:longitude>34.4374902</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041264/"/>
+        <osm:name xml:lang="ar">مكتب الوفاء لتأجير السيارات</osm:name>
+        <osm:amenity>taxi</osm:amenity>
+        <osm:name>Al-Wafa Office For Car Renta</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504300054">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504300054</osm:id>
+        <osm:latitude>31.5305386</osm:latitude>
+        <osm:longitude>34.455039500000005</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/7302441/"/>
+        <osm:name xml:lang="ar">مدرسة القرشلي لتعليم قيادة السيارات</osm:name>
+        <osm:amenity>car_sharing</osm:amenity>
+        <osm:name>Al-Qarashalli School For Car Driving Teachin</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504301734">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504301734</osm:id>
+        <osm:latitude>31.535556699999997</osm:latitude>
+        <osm:longitude>34.4609971</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041667/"/>
+        <osm:name xml:lang="ar">صيدلية النصر</osm:name>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>Al-Naser Pharmac</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504301920">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504301920</osm:id>
+        <osm:latitude>31.501031199999996</osm:latitude>
+        <osm:longitude>34.470761700000004</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042064/"/>
+        <osm:name xml:lang="ar">صيدلية السعيد</osm:name>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>Al-Sa'eed Pharmac</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504302171">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504302171</osm:id>
+        <osm:latitude>31.5178468</osm:latitude>
+        <osm:longitude>34.434966100000004</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041252/"/>
+        <osm:name xml:lang="ar">مالمركز الفلسطيني فتا</osm:name>
+        <osm:amenity>arts_centre</osm:amenity>
+        <osm:name>Fata Palestine Cente</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/504302547">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>504302547</osm:id>
+        <osm:latitude>31.5058267</osm:latitude>
+        <osm:longitude>34.4531323</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041218/"/>
+        <osm:name xml:lang="ar">صيدلية دار الحكمة</osm:name>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>Dar Al-Hekma Pharmac</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/505017601">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>505017601</osm:id>
+        <osm:latitude>31.417548999999998</osm:latitude>
+        <osm:longitude>34.350792</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/281141/"/>
+        <osm:name xml:lang="ar">صيدلية بلسم</osm:name>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>Balsam Pharmac</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/505018967">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>505018967</osm:id>
+        <osm:latitude>31.418631800000004</osm:latitude>
+        <osm:longitude>34.3524479</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8051612/"/>
+        <osm:name xml:lang="ar">صيدلية دينا</osm:name>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>Dina Pharmac</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/505092692">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>505092692</osm:id>
+        <osm:latitude>31.342015399999998</osm:latitude>
+        <osm:longitude>34.3254088</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/7870559/"/>
+        <osm:name xml:lang="ar">مكتب بريد بني سهيلا</osm:name>
+        <osm:amenity>post_office</osm:amenity>
+        <osm:name>Bani Suhaila Post Office</osm:name>
+        <osm:operator>Palestine Pos</osm:operator>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/505094465">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>505094465</osm:id>
+        <osm:latitude>31.28515</osm:latitude>
+        <osm:longitude>34.271503</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/7871045/"/>
+        <osm:name xml:lang="ar">روضة خربة العدس</osm:name>
+        <osm:amenity>kindergarten</osm:amenity>
+        <osm:name>Kherbet Aladas</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/505098704">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>505098704</osm:id>
+        <osm:latitude>31.3070755</osm:latitude>
+        <osm:longitude>34.3612242</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/281119/"/>
+        <osm:name xml:lang="ar">مسجد التقوى</osm:name>
+        <osm:amenity>place_of_worship</osm:amenity>
+        <osm:name>al-taqwa mosque</osm:name>
+        <osm:religion>muslim</osm:religion>
+        <osm:denomination>shi</osm:denomination>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/505109970">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>505109970</osm:id>
+        <osm:latitude>31.341647299999998</osm:latitude>
+        <osm:longitude>34.3253885</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/7870559/"/>
+        <osm:amenity>police</osm:amenity>
+        <osm:name>Bani Suhaila Police Cente</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/505120298">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>505120298</osm:id>
+        <osm:latitude>31.293379100000003</osm:latitude>
+        <osm:longitude>34.244532799999995</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8051669/"/>
+        <osm:name xml:lang="ar">محطة الاقصى</osm:name>
+        <osm:amenity>fuel</osm:amenity>
+        <osm:name>محطة الاقصى</osm:name>
+        <osm:name xml:lang="en">Alaqsa Fue</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/505125388">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>505125388</osm:id>
+        <osm:latitude>31.3442657</osm:latitude>
+        <osm:longitude>34.304626500000005</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8051625/"/>
+        <osm:name xml:lang="ar">مجمع الياسين الطبي</osm:name>
+        <osm:amenity>doctors</osm:amenity>
+        <osm:name>Al Yaseen Health Cente</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/505133726">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>505133726</osm:id>
+        <osm:latitude>31.272508000000002</osm:latitude>
+        <osm:longitude>34.2529215</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8051675/"/>
+        <osm:name xml:lang="ar">مسجد أبو بكر</osm:name>
+        <osm:amenity>place_of_worship</osm:amenity>
+        <osm:name>مسجد أبو بكر</osm:name>
+        <osm:name xml:lang="en">Masjid Abu Bakr</osm:name>
+        <osm:religion>muslim</osm:religion>
+        <osm:denomination>sunn</osm:denomination>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/505134819">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>505134819</osm:id>
+        <osm:latitude>31.335282899999996</osm:latitude>
+        <osm:longitude>34.3061096</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8051627/"/>
+        <osm:name xml:lang="ar">مركز جورة اللوت الصحي</osm:name>
+        <osm:amenity>doctors</osm:amenity>
+        <osm:name>Jort Allot Health Cente</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/505135362">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>505135362</osm:id>
+        <osm:latitude>31.296953000000002</osm:latitude>
+        <osm:longitude>34.2423622</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/281076/"/>
+        <osm:name xml:lang="ar">مسجد ابو عبيدة بن الجراح</osm:name>
+        <osm:amenity>place_of_worship</osm:amenity>
+        <osm:name>Abu Obaida Aljarh Mosque</osm:name>
+        <osm:religion>muslim</osm:religion>
+        <osm:denomination>sunn</osm:denomination>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5359858021">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5359858021</osm:id>
+        <osm:latitude>31.524103000000004</osm:latitude>
+        <osm:longitude>34.4435024</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041204/"/>
+        <osm:amenity>hospital</osm:amenity>
+        <osm:name>مجمع الشفاء الطبي</osm:name>
+        <osm:opening_hours>24/7</osm:opening_hours>
+        <osm:name xml:lang="en">Al-Shifa Hospital Compoun</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4362393589">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4362393589</osm:id>
+        <osm:latitude>31.515742600000003</osm:latitude>
+        <osm:longitude>34.4474264</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041978/"/>
+        <osm:name xml:lang="ar">مطعم كابو</osm:name>
+        <osm:amenity>restaurant</osm:amenity>
+        <osm:name>مطعم كابو</osm:name>
+        <osm:street>Al Shuhada</osm:street>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5897858185">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5897858185</osm:id>
+        <osm:latitude>31.522042300000003</osm:latitude>
+        <osm:longitude>34.439018700000005</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041268/"/>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>دار السلام</osm:name>
+        <osm:opening_hours>24/</osm:opening_hours>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5897869785">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5897869785</osm:id>
+        <osm:latitude>31.523055600000003</osm:latitude>
+        <osm:longitude>34.4401494</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041203/"/>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>صيدلية الزيتون</osm:name>
+        <osm:opening_hours>Sa-Th 00:00-24:00</osm:opening_hours>
+        <osm:name xml:lang="en">Zaytoun pharmac</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4696835892">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4696835892</osm:id>
+        <osm:latitude>31.5151055</osm:latitude>
+        <osm:longitude>34.4358146</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/7870540/"/>
+        <osm:name xml:lang="ar">مخزن انقاذ الطفل الدولية</osm:name>
+        <osm:amenity>community_centre</osm:amenity>
+        <osm:name>مخزن انقاذ الطفل الدولية</osm:name>
+        <osm:name xml:lang="en">Save the Children -Tal al Hawa warehous</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/2857952812">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>2857952812</osm:id>
+        <osm:latitude>31.5162891</osm:latitude>
+        <osm:longitude>34.4391083</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041255/"/>
+        <osm:wheelchair>no</osm:wheelchair>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>Alhelou phar</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4629274789">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4629274789</osm:id>
+        <osm:latitude>31.5178245</osm:latitude>
+        <osm:longitude>34.4477018</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041976/"/>
+        <osm:internet_access>wlan</osm:internet_access>
+        <osm:phone>0598280007</osm:phone>
+        <osm:amenity>cafe</osm:amenity>
+        <osm:opening_hours>Sa-Th 09:00-22:00</osm:opening_hours>
+        <osm:name xml:lang="en">Friend's rest cafe</osm:name>
+        <osm:street>Arab Bank Stree</osm:street>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5327153524">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5327153524</osm:id>
+        <osm:latitude>31.520466600000002</osm:latitude>
+        <osm:longitude>34.4424002</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041200/"/>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>ص برلين الحديث</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/3657662326">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>3657662326</osm:id>
+        <osm:latitude>31.531509600000003</osm:latitude>
+        <osm:longitude>34.4446347</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041659/"/>
+        <osm:housenumber>3/1</osm:housenumber>
+        <osm:amenity>restaurant</osm:amenity>
+        <osm:name>ابو شكري المدهون للمأكولات الشعبية</osm:name>
+        <osm:opening_hours>4am 1pm</osm:opening_hours>
+        <osm:cuisine>sandwich</osm:cuisine>
+        <osm:name xml:lang="en">ِAbu Shukri For Popular food</osm:name>
+        <osm:street>مخيم الشاطئ</osm:street>
+        <osm:takeaway>yes</osm:takeaway>
+        <osm:city>gaz</osm:city>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5256200422">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5256200422</osm:id>
+        <osm:latitude>31.5200544</osm:latitude>
+        <osm:longitude>34.4351101</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041265/"/>
+        <osm:amenity>place_of_worship</osm:amenity>
+        <osm:name>مسجد زيد بن حارثة</osm:name>
+        <osm:name xml:lang="en">Zaid bin Haritha Mosqu</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5256213021">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5256213021</osm:id>
+        <osm:latitude>31.5201229</osm:latitude>
+        <osm:longitude>34.4350559</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041265/"/>
+        <osm:name xml:lang="ar">مسجد زيد بن حارثة</osm:name>
+        <osm:amenity>place_of_worship</osm:amenity>
+        <osm:name>مسجد زيد ابن حارثة</osm:name>
+        <osm:name xml:lang="en">Zaid bin Haretha Mosqu</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5321028021">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5321028021</osm:id>
+        <osm:latitude>31.5081315</osm:latitude>
+        <osm:longitude>34.4322629</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041224/"/>
+        <osm:amenity>bank</osm:amenity>
+        <osm:name>بنك فلسطين - فرع تل الهوا</osm:name>
+        <osm:street>شارع جامعة الدول العربي</osm:street>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4306315292">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4306315292</osm:id>
+        <osm:latitude>31.422855</osm:latitude>
+        <osm:longitude>34.3597578</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8051594/"/>
+        <osm:amenity>waste_baske</osm:amenity>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4306378691">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4306378691</osm:id>
+        <osm:latitude>31.4205082</osm:latitude>
+        <osm:longitude>34.3458858</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/281081/"/>
+        <osm:amenity>waste_baske</osm:amenity>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5462137721">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5462137721</osm:id>
+        <osm:latitude>31.5000419</osm:latitude>
+        <osm:longitude>34.4706476</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042063/"/>
+        <osm:name xml:lang="ar">مسجد الست رقية</osm:name>
+        <osm:amenity>place_of_worship</osm:amenity>
+        <osm:name>مسجد الست رقي</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4306418891">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4306418891</osm:id>
+        <osm:latitude>31.4188489</osm:latitude>
+        <osm:longitude>34.3535264</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8051614/"/>
+        <osm:amenity>waste_baske</osm:amenity>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4306419389">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4306419389</osm:id>
+        <osm:latitude>31.4174641</osm:latitude>
+        <osm:longitude>34.3502935</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/281141/"/>
+        <osm:amenity>waste_baske</osm:amenity>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4306420490">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4306420490</osm:id>
+        <osm:latitude>31.4245141</osm:latitude>
+        <osm:longitude>34.3432239</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8051598/"/>
+        <osm:amenity>waste_baske</osm:amenity>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5124119121">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5124119121</osm:id>
+        <osm:latitude>31.533154800000002</osm:latitude>
+        <osm:longitude>34.4593609</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041671/"/>
+        <osm:phone>0599710755</osm:phone>
+        <osm:amenity>clinic</osm:amenity>
+        <osm:name>مركز الماسة للبصريات</osm:name>
+        <osm:opening_hours>Sa-Th 08:00-20:00</osm:opening_hours>
+        <osm:name xml:lang="en">Al Massa Optical Center</osm:name>
+        <osm:street>شارع العيون، مقابل البوابة الجنوبية لمستشفى العيو</osm:street>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/1431334773">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>1431334773</osm:id>
+        <osm:latitude>31.3070555</osm:latitude>
+        <osm:longitude>34.3613675</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/281119/"/>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>central Khuza'a pharmac</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/1431365436">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>1431365436</osm:id>
+        <osm:latitude>31.5280278</osm:latitude>
+        <osm:longitude>34.436946999999996</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041264/"/>
+        <osm:wheelchair>no</osm:wheelchair>
+        <osm:amenity>restaurant</osm:amenity>
+        <osm:name>Al-slam Restauran</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5804109964">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5804109964</osm:id>
+        <osm:latitude>31.523078</osm:latitude>
+        <osm:longitude>34.433339200000006</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041258/"/>
+        <osm:amenity>place_of_worship</osm:amenity>
+        <osm:name>مسجد الحساين</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5257234322">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5257234322</osm:id>
+        <osm:latitude>31.5206894</osm:latitude>
+        <osm:longitude>34.4407463</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041271/"/>
+        <osm:name xml:lang="ar">مدرسة المتميزون الحديثة</osm:name>
+        <osm:amenity>school</osm:amenity>
+        <osm:name>مدرسة المتيزون الحديثة</osm:name>
+        <osm:opening_hours>Su-Th 07:30-15:00</osm:opening_hours>
+        <osm:name xml:lang="en">Elite Modern School</osm:name>
+        <osm:street>شارع الشهدا</osm:street>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/6160992988">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>6160992988</osm:id>
+        <osm:latitude>31.511796399999998</osm:latitude>
+        <osm:longitude>34.45017</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042002/"/>
+        <osm:amenity>courthouse</osm:amenity>
+        <osm:name>محكمة غزة الشرعي</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/6160992989">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>6160992989</osm:id>
+        <osm:latitude>31.5225707</osm:latitude>
+        <osm:longitude>34.4329748</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041257/"/>
+        <osm:name xml:lang="ar">مطعم المرسى للمأكولات البحرية</osm:name>
+        <osm:amenity>restaurant</osm:amenity>
+        <osm:name>مطعم المرسى ⚓</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4308529233">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4308529233</osm:id>
+        <osm:latitude>31.407643800000002</osm:latitude>
+        <osm:longitude>34.3675994</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/7870268/"/>
+        <osm:amenity>waste_baske</osm:amenity>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/1467639418">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>1467639418</osm:id>
+        <osm:latitude>31.520105800000003</osm:latitude>
+        <osm:longitude>34.4417657</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041270/"/>
+        <osm:name xml:lang="ar">مطعم الطابون فرع الاتصالات</osm:name>
+        <osm:internet_access>wlan</osm:internet_access>
+        <osm:phone>08-288-6880</osm:phone>
+        <osm:amenity>restaurant</osm:amenity>
+        <osm:name>Taboon Resturant</osm:name>
+        <osm:cuisine>pizza;sandwich</osm:cuisine>
+        <osm:street>Al-Nasera Street</osm:street>
+        <osm:operator>سعدي دوا</osm:operator>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4866614922">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4866614922</osm:id>
+        <osm:latitude>31.516231599999998</osm:latitude>
+        <osm:longitude>34.432871999999996</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041251/"/>
+        <osm:name xml:lang="ar">مدرسة مصطفى الرفاعي للصم - بنين</osm:name>
+        <osm:amenity>school</osm:amenity>
+        <osm:name>مدرسة مصطفى الرفاعي للصم - بنين</osm:name>
+        <osm:opening_hours>Su-Th 08:00-15:00</osm:opening_hours>
+        <osm:street>Al Qud</osm:street>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4866614923">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4866614923</osm:id>
+        <osm:latitude>31.516426</osm:latitude>
+        <osm:longitude>34.4325865</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041251/"/>
+        <osm:name xml:lang="ar">مدرسة مصطفى صادق الرفاعي للصم _ بنات</osm:name>
+        <osm:amenity>school</osm:amenity>
+        <osm:name>مدرسة مصطفى صادق الرفاعي للصم _ بنا</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/6378799785">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>6378799785</osm:id>
+        <osm:latitude>31.5171466</osm:latitude>
+        <osm:longitude>34.4332952</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/281069/"/>
+        <osm:amenity>school</osm:amenity>
+        <osm:name>مدرسة الرمال الإعدادية المشتركة ج</osm:name>
+        <osm:street>Al-Jazaer Stree</osm:street>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4777198023">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4777198023</osm:id>
+        <osm:latitude>31.516220399999998</osm:latitude>
+        <osm:longitude>34.4468911</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041978/"/>
+        <osm:name xml:lang="ar">مطعم زاد الخير</osm:name>
+        <osm:amenity>restaurant</osm:amenity>
+        <osm:name>مطعم زاد الخي</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/6096781987">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>6096781987</osm:id>
+        <osm:latitude>31.5043305</osm:latitude>
+        <osm:longitude>34.464648600000004</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042071/"/>
+        <osm:amenity>place_of_worship</osm:amenity>
+        <osm:name>ساحة الجامع العمري الكبي</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5375101421">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5375101421</osm:id>
+        <osm:latitude>31.518980499999998</osm:latitude>
+        <osm:longitude>34.4443892</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041970/"/>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>صيدلية روز</osm:name>
+        <osm:name xml:lang="en">Rose Pharmac</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4381123896">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4381123896</osm:id>
+        <osm:latitude>31.5189701</osm:latitude>
+        <osm:longitude>34.4422839</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042001/"/>
+        <osm:name xml:lang="ar">مقهى هاني بي haney bee cafe</osm:name>
+        <osm:internet_access>wlan</osm:internet_access>
+        <osm:amenity>cafe</osm:amenity>
+        <osm:name>مقهى هاني بي Honey bee cafe</osm:name>
+        <osm:opening_hours>Mo-Su 09:29-00:30</osm:opening_hours>
+        <osm:cuisine>pancake;donut;ice_cream;cake;tea;coffee_shop</osm:cuisine>
+        <osm:name xml:lang="en">Honey bee cafe</osm:name>
+        <osm:street>شارع المجدل Al-Majdal Stree</osm:street>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5182033621">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5182033621</osm:id>
+        <osm:latitude>31.4151365</osm:latitude>
+        <osm:longitude>34.3566614</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8051592/"/>
+        <osm:amenity>casino</osm:amenity>
+        <osm:name>صالة فلورنس</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/6313704087">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>6313704087</osm:id>
+        <osm:latitude>31.5229245</osm:latitude>
+        <osm:longitude>34.453748</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041656/"/>
+        <osm:amenity>school</osm:amenity>
+        <osm:name>مدرسة المأمونية الابتدائية المشتركة أ+ب</osm:name>
+        <osm:street>Amer Ben Alaas Stree</osm:street>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4867939323">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4867939323</osm:id>
+        <osm:latitude>31.5050391</osm:latitude>
+        <osm:longitude>34.4293947</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041223/"/>
+        <osm:name xml:lang="ar">مركز اومينس</osm:name>
+        <osm:amenity>school</osm:amenity>
+        <osm:name>مركز اومينس</osm:name>
+        <osm:name xml:lang="en">Omens cente</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/2775571683">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>2775571683</osm:id>
+        <osm:latitude>31.5206924</osm:latitude>
+        <osm:longitude>34.44285479999999</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041200/"/>
+        <osm:wheelchair>limited</osm:wheelchair>
+        <osm:housenumber>000</osm:housenumber>
+        <osm:amenity>bank</osm:amenity>
+        <osm:name>Rashaed Elshawa centre</osm:name>
+        <osm:wheelchair>يمكن الوصول لقاعة العرض ولا يمكن الوصول للمكتبة والطابق الثاني</osm:wheelchair>
+        <osm:street>Omar al-Mukhtar st.</osm:street>
+        <osm:postcode>00970</osm:postcode>
+        <osm:city>Gaza sit</osm:city>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4790707521">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4790707521</osm:id>
+        <osm:latitude>31.419760600000004</osm:latitude>
+        <osm:longitude>34.3461904</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/281081/"/>
+        <osm:name xml:lang="ar">صيدلية عفاف</osm:name>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>صيدلية عفا</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5118117821">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5118117821</osm:id>
+        <osm:latitude>31.5020293</osm:latitude>
+        <osm:longitude>34.473519200000005</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042062/"/>
+        <osm:amenity>drinking_water</osm:amenity>
+        <osm:name>محطة مياه مدرسة دلال المغرب</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5118156121">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5118156121</osm:id>
+        <osm:latitude>31.523844300000004</osm:latitude>
+        <osm:longitude>34.436470299999996</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041260/"/>
+        <osm:amenity>drinking_water</osm:amenity>
+        <osm:name>محطة تحلية مياه عمارة دري</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5118355324">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5118355324</osm:id>
+        <osm:latitude>31.3493534</osm:latitude>
+        <osm:longitude>34.2934251</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/281123/"/>
+        <osm:amenity>drinking_water</osm:amenity>
+        <osm:name>محطة تحلية مياه مدرسة مصطفى حاف</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5168788124">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5168788124</osm:id>
+        <osm:latitude>31.5168033</osm:latitude>
+        <osm:longitude>34.4337406</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/281069/"/>
+        <osm:internet_access>wlan</osm:internet_access>
+        <osm:phone>0598330030</osm:phone>
+        <osm:amenity>library</osm:amenity>
+        <osm:name>مكتبة سمسم</osm:name>
+        <osm:opening_hours>Sa-Th 06:00-22:00</osm:opening_hours>
+        <osm:name xml:lang="en">Semsem Library</osm:name>
+        <osm:street>Al Qud</osm:street>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4217332689">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4217332689</osm:id>
+        <osm:latitude>31.5047924</osm:latitude>
+        <osm:longitude>34.463199100000004</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042091/"/>
+        <osm:amenity>bank</osm:amenity>
+        <osm:name>بنك فلسطين الفرع الرئيس</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5354790524">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5354790524</osm:id>
+        <osm:latitude>31.5063365</osm:latitude>
+        <osm:longitude>34.46239</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042092/"/>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>ص فلسطين غز</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5354819721">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5354819721</osm:id>
+        <osm:latitude>31.5017047</osm:latitude>
+        <osm:longitude>34.4685774</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042065/"/>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>ص بيت المقدس غز</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4313593175">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4313593175</osm:id>
+        <osm:latitude>31.4150636</osm:latitude>
+        <osm:longitude>34.35711679999999</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8051592/"/>
+        <osm:amenity>waste_baske</osm:amenity>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4313645555">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4313645555</osm:id>
+        <osm:latitude>31.404145</osm:latitude>
+        <osm:longitude>34.3538347</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/281126/"/>
+        <osm:amenity>waste_baske</osm:amenity>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4313648027">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4313648027</osm:id>
+        <osm:latitude>31.4083561</osm:latitude>
+        <osm:longitude>34.350147899999996</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8051609/"/>
+        <osm:amenity>waste_baske</osm:amenity>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5152048724">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5152048724</osm:id>
+        <osm:latitude>31.5176554</osm:latitude>
+        <osm:longitude>34.4478435</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041976/"/>
+        <osm:amenity>bank</osm:amenity>
+        <osm:name>البنك العربي</osm:name>
+        <osm:name xml:lang="en">Arab Ban</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4301565895">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4301565895</osm:id>
+        <osm:latitude>31.4167974</osm:latitude>
+        <osm:longitude>34.3498328</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/281084/"/>
+        <osm:amenity>waste_baske</osm:amenity>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4301566589">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4301566589</osm:id>
+        <osm:latitude>31.416768199999996</osm:latitude>
+        <osm:longitude>34.350066299999995</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/281084/"/>
+        <osm:amenity>waste_baske</osm:amenity>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4837014324">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4837014324</osm:id>
+        <osm:latitude>31.5029173</osm:latitude>
+        <osm:longitude>34.468472399999996</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042082/"/>
+        <osm:name xml:lang="ar">كوفي شوب التوفيق</osm:name>
+        <osm:internet_access>wlan</osm:internet_access>
+        <osm:amenity>cafe</osm:amenity>
+        <osm:name>كوفي شوب التوفيق</osm:name>
+        <osm:opening_hours>24/7</osm:opening_hours>
+        <osm:name xml:lang="en">Altawfeeq cofeshop</osm:name>
+        <osm:street>صلاح الدي</osm:street>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/4759813924">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>4759813924</osm:id>
+        <osm:latitude>31.515693300000002</osm:latitude>
+        <osm:longitude>34.447571</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041978/"/>
+        <osm:amenity>atm</osm:amenity>
+        <osm:operator>a1_نقطة هام</osm:operator>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/6077133387">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>6077133387</osm:id>
+        <osm:latitude>31.502148</osm:latitude>
+        <osm:longitude>34.473600700000006</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8042062/"/>
+        <osm:amenity>school</osm:amenity>
+        <osm:name>مدرسة دلال المغربي للبنات</osm:name>
+        <osm:name xml:lang="en">Dalal Al Maghraby Girls Schoo</osm:name>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5906206885">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5906206885</osm:id>
+        <osm:latitude>31.5136011</osm:latitude>
+        <osm:longitude>34.4265976</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041249/"/>
+        <osm:amenity>ice_cream</osm:amenity>
+        <osm:name>مرطبات كاظم</osm:name>
+        <osm:opening_hours>Mo-Su 10:00-23:00</osm:opening_hours>
+        <osm:name xml:lang="en">Kazem ice cream</osm:name>
+        <osm:street>دوار الفرقا</osm:street>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.openstreetmap.org/node/5907826385">
+        <rdf:type rdf:resource="#node"/>
+        <osm:id>5907826385</osm:id>
+        <osm:latitude>31.5227951</osm:latitude>
+        <osm:longitude>34.4401656</osm:longitude>
+        <owl:sameAs rdf:resource="http://sws.geonames.org/8041203/"/>
+        <osm:amenity>pharmacy</osm:amenity>
+        <osm:name>صيدلية مسعود</osm:name>
+        <osm:opening_hours>Mo-Su 09:00-23:00</osm:opening_hours>
+        <osm:name xml:lang="en">MASOUD PHARMACY</osm:name>
+        <osm:street>Omar Al-Mukhtar St. شارع عمر المختا</osm:street>
+        <osm:country>Palestine</osm:country>
+    </rdf:Description>
+</rdf:RDF>

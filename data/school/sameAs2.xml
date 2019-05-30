@@ -1,0 +1,2286 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:owl="http://www.w3.org/2002/07/owl#"
+        xmlns:sch="https://raw.githubusercontent.com/SoftwareConstructionQMM/DataEngineering/master/GCI-Education.rdf#"
+        xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+        xmlns:foaf="http://xmlns.com/foaf/0.1/"
+        xmlns:abo="https://raw.githubusercontent.com/birzeitknowledgegraph-2019/Ontology/master/osm_v1.rdf">
+
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.9111021E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431708810"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.911102E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5049208522"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.911102E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5049208522"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.9112031E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431708610"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.9111017E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5181448919"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.911204E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5067021121"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.911204E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5067021121"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8111019E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432296987"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8111025E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4948907526"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8111025E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4948907526"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8111034E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432292952"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8111048E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432263706"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.811105E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432292952"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.811105E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432296185"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.811107E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432281231"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8111071E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432291501"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8111071E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432291501"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8111084E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432275916"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.81111E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432266293"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8111148E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432297597"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8111177E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432297099"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.811118E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432280733"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8111183E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432282804"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112004E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/6026930885"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112005E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432268905"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112006E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432291663"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112007E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5059478023"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112007E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5059478023"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112008E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432268532"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.811201E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432292089"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112015E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432285655"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112015E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432285655"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112018E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432285925"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112023E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432297499"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112024E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4962298024"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112024E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4962298024"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112028E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432289565"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112031E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432263690"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112033E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432283353"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112037E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432262261"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112037E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432285476"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112038E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432286395"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112042E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/6024349785"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112043E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432282772"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112044E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432273501"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112044E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432273501"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112045E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432294683"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112046E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432294939"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112046E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/6036097787"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112057E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432276451"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112058E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432282245"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112062E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432263605"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112062E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432263605"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112064E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432294557"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112067E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432263720"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112072E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432283939"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112082E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432283574"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112083E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432287289"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112083E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432287289"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112085E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432273112"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112088E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432263240"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112088E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432263240"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112091E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432282476"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112096E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432289637"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112097E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432281524"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112101E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432265794"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112102E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432271240"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112104E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432262647"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112104E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432262647"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112104E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432275226"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112109E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432283547"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112116E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432260964"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112118E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432263366"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112119E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432262261"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112119E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432285476"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.811212E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432282995"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112121E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432294661"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112122E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432285245"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112125E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/6341062886"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112128E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432283755"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112128E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432283755"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112132E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/6026930885"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112133E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432286476"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112136E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432280699"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112141E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/3225186589"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112141E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/3225186590"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112141E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432282399"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112141E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432289781"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112142E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432295627"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112145E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432268367"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112146E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432271399"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112155E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432283939"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112158E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/3225186589"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112158E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/3225186590"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112158E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432289781"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112168E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432260961"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.811217E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432289706"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112179E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432269270"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112181E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432277706"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112188E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432280649"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112189E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432279382"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112193E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432260889"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112193E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/3657628054"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112194E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432295944"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112197E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432281522"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112198E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5059493324"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112198E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5059493324"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112199E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432275839"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8112201E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432276493"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8113203E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432296280"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8113208E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4938355443"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8113209E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432294565"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8113209E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432294565"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8113212E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/3657628052"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8113213E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432279410"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8113213E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5113245021"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8113214E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/6036102686"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8113216E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432270647"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8113217E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5308742721"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8113217E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5308742721"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8321729E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5342854722"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8321729E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5342854722"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8321729E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432269854"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8321732E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/2419781477"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8321732E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4649150392"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8321732E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4649150392"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8322704E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432279579"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.832271E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4204880389"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.832271E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4204880389"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8322713E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432273575"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8322716E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432274490"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8322716E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432294164"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8322722E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432275546"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8322722E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432275546"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8331708E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432280055"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8331708E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432280425"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8331708E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432280425"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.833173E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432281884"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8331733E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432273205"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8331752E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432294855"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8333761E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5242852721"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8333761E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5242852721"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.2211505E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432295835"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.2211505E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432295835"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.2212507E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432267162"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.2213512E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432260275"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6111028E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432334713"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6111028E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432334735"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6111032E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432334717"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6111032E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432334843"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6111033E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/6233058385"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6111034E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432334735"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6111049E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/3528600820"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6111049E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/3528600820"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6111069E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432334717"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.611107E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432334815"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6112003E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432305506"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6112005E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432302294"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6112017E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432312339"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6112018E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432317747"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6112018E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432317747"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6112021E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432317747"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6112021E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432317747"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6112023E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432332587"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6112041E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432315396"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6112045E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432307377"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6112064E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432308297"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.6331706E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5303606721"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8111087E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431723902"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8111088E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431765481"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.811109E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431735697"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8111129E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5057695821"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8111129E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5057695821"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8111132E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5057695821"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8111134E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432544914"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8111166E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432544914"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8111175E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431784745"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112011E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431759571"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112013E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431788757"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112014E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431724234"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112018E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/2694837035"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112018E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431819554"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112019E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/2694837035"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112024E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432544238"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112037E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432545055"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112041E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4237581390"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112043E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4237518802"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112059E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431709997"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112081E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431720029"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112082E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431720029"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112098E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4695130789"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112098E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4695130789"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112109E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431722230"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112124E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5574375222"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112124E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5574476121"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112141E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431729273"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112142E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431729273"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112142E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431806172"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.811215E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432544922"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112155E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4421856197"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112155E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4421856197"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.811216E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5484270821"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112161E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/3870590357"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112163E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431726649"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112169E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4695115990"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112169E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4695115990"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112182E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4237581390"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112183E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4421856198"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112183E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4421856198"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.8112192E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5574476121"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112808E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5587832024"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112808E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5587832024"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112808E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/6222106485"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112013E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431880888"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112013E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431987303"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112014E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431880888"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112033E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431793141"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112034E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432048884"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112054E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431911604"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112056E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5587832521"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112058E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4373201290"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112058E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4373201290"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.511206E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432237982"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.511206E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432237982"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112062E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431953297"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112065E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432237982"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112065E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432237982"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112068E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431837857"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112068E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431846298"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.511207E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432213672"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.511207E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432213672"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112074E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431861520"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112076E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431871907"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112076E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432166073"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112084E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431833794"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112084E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431833794"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112093E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432216572"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112093E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432216572"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112103E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/6222106186"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112804E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432204325"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112804E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432204325"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5112806E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431793141"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5332202E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431851257"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5332203E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431908411"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5332203E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431908411"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5332206E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431851257"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.421327E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432237755"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.421327E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432237755"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.4213415E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432237755"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.4213415E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432237755"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.9112052E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432267072"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.911203E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432289156"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.9112029E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432268213"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.9112028E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432289391"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.911205E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432290979"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.2212308E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432265603"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.9112019E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432260282"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.9112065E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5587833221"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.9112065E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5587833221"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.9112039E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432263537"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.9112043E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5086159021"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.9112043E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5086159021"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.9112035E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432282854"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.9331707E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432267006"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.9112004E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432286166"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.9112004E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432286166"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.9112005E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432268223"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.9312703E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432279417"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.9112017E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432281028"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0111007E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432545167"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0111013E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431740555"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0111013E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431756693"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0111096E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431740555"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0111096E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431753622"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0111115E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431720847"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.011116E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432545093"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0111189E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431770529"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112001E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432545035"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112002E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432545022"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112026E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432544830"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112028E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432544830"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112041E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431762617"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112041E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431762617"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112041E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431782878"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112041E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431782878"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112041E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431792685"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112041E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431792685"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112047E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4823518324"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112047E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4823518324"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112047E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431796518"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112047E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431796518"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112047E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431815597"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112047E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431815597"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112049E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432544263"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.011208E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432544972"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112087E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432544802"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112088E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431772105"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112088E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431772105"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112088E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431828255"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112088E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431828255"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.011217E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431814528"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.011217E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431814528"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112183E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4314077698"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112196E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431828255"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112196E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431828255"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112199E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432544984"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112203E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4621139290"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112203E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4621139290"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112025E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5665174525"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7111106E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5464971025"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7111106E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5464971025"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7111154E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5451735722"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7111256E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432208259"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.711126E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5464971025"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.711126E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5464971025"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112008E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4703292289"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112008E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4703292289"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112035E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5459899821"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112037E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4513248489"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112037E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4513248489"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112038E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431803446"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112038E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431803446"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.711204E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431867260"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.711204E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431867260"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112045E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432084056"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112045E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432084056"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112051E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5459899721"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112051E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5459899721"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.711206E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4703292290"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.711206E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4703292290"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112062E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431922504"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112064E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432068685"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112065E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4327793889"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112078E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4485055992"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112078E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4485055992"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112078E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4329018858"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112078E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4329018858"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112078E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4329022170"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112078E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4329022170"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112079E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432082484"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.711208E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5459891323"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112116E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432220951"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112178E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5478233531"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.711218E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432222241"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.711218E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432222241"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112181E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/6177747585"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112183E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5464972724"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112185E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5459899721"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112185E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5459899721"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112222E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432044434"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112225E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/6177748085"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112255E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432137574"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112269E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4703275091"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112269E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4703275091"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112272E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432222241"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112272E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432222241"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112274E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5459891323"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112284E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431943901"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112326E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431847429"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7112326E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431847429"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.4213505E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432170754"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.4213505E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432170754"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6112197E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431921965"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6112197E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431921965"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6112026E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432226673"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6111246E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431886662"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6111105E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431995176"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6111303E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431953054"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6111248E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/3950285277"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6111189E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432206526"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6111071E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432106366"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6111211E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432226903"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6111279E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431854957"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6111145E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432206595"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6111145E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432226903"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6111066E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431970955"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6111066E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431970955"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.3112017E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432229355"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.3112018E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432059629"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.3112019E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432052548"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.3112022E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432217548"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.3112023E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432217548"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.3112032E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4108079790"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.3112035E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432152366"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.3332214E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431876170"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.9112072E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432263537"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.911207E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432268652"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0312704E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5150152622"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6111084E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/3950370505"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6111084E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432206526"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6111274E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431872413"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6111362E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/6212746585"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6111247E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432129127"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6111016E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431910051"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6331706E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432184311"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6331706E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432184311"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6331744E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/2618399575"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6331744E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/2870030507"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6331748E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5900439187"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6311712E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5447714225"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.631171E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431897042"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.631171E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431897042"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6331703E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/3950319826"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.4211401E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431873909"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6331702E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431835693"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6331702E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431835693"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6331767E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432225990"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6331767E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432225990"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.2112031E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432056337"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.2111109E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5605308621"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.2112012E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431930045"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.2112012E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432086842"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.2112151E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432159919"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.2112341E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432039126"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.2112094E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431950451"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.0211403E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432151180"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.2111143E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5650682021"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.2111147E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431925487"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.2111221E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431930806"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.2112136E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431934079"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.2112145E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432059557"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.2112314E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4524380092"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.2112235E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432187169"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.211123E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431919446"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.2111029E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431919446"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.2111247E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431995565"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.2112073E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432081263"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.0213404E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431989308"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.2111122E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431937833"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.2112037E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432041697"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112021E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432357801"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112004E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432354319"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112034E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5587832522"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112013E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432350992"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112013E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432360315"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112069E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432350992"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112069E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432356173"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112046E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432350992"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112018E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432347665"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112057E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432347665"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112055E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432358469"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112009E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432353770"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112067E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432353015"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112067E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432357259"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112049E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432357259"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3312702E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432360896"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112025E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432354502"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112002E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432352138"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112041E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432354793"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112071E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432347987"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112071E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432349914"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112017E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432352388"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112007E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432354300"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.9111013E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5067020924"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.9111013E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5067020924"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.011214E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431787375"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.4112024E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432335018"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.4112024E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432335018"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.4331704E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432344296"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.4321702E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432340742"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.4321702E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432340742"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112007E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432164349"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112009E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432092953"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.111201E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432004287"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112011E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432092953"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112013E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432170188"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112019E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431948969"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.111202E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431907071"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112021E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432108022"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112023E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432156621"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112028E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431983037"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.111203E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432146444"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112031E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4763995652"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112031E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4763995652"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112033E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431994378"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112034E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432009899"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112037E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432179322"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112038E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432179322"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112039E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432131872"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112041E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431983608"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112042E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432136717"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112043E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432058981"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112044E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431906512"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112045E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432058981"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112046E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432070061"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112049E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432074229"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112049E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432154012"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.111205E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431980019"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112051E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431963888"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112052E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432161891"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112053E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431980019"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112054E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431934320"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112058E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431936682"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.111206E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431936682"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.111206E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432072350"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112062E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432071234"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112063E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431897202"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112064E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432093185"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112065E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431899802"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112067E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432111127"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112068E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432163975"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.111207E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432115303"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112071E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431934405"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112072E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432090420"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112076E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432135980"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112077E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432120534"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1112079E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432156055"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6111373E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4422349391"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6111373E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4422349391"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.611138E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431872413"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.6331781E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/2618399575"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.233174E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4650619014"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.911205E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5181448919"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.011121E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431636912"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0111212E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431740095"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0111212E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431789619"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112215E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432544263"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112216E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432544263"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.4111007E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432338819"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.4111007E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432338819"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.1332706E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431985463"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4111005E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432379169"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4111025E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432403721"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4111031E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4478077090"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4111031E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4478077090"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.411105E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432419384"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4111083E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5259531723"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4111093E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432374686"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4111093E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432406475"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4111094E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432364451"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4111112E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432418694"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4111112E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432540752"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4111118E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432366219"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4111125E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432540752"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4111127E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432403483"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4111131E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432390425"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4111134E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432374686"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4111144E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5259531722"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112003E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432406125"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112004E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432397357"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112004E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432533025"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112006E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432422405"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112009E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432378398"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112011E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432377222"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112011E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432377222"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112018E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432386267"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112028E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432365322"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112031E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432375051"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112031E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432403755"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112033E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432382797"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112035E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432378292"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112041E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432390089"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112041E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432422683"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112043E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432412122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112044E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432412122"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112045E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432371011"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112045E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432374599"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112048E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432419554"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112055E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432375051"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112055E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432382797"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112057E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432416101"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112062E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432389943"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112063E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432382564"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112064E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432399693"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112068E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432370837"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112069E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432533696"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112074E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432373875"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112074E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432373875"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112074E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5481967521"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112075E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432373875"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112075E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432377477"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112075E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5481967521"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112077E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432377170"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112082E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432367617"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112083E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432360507"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112083E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432361481"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112083E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432361481"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112085E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432540997"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112089E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432384004"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112099E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432396095"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112102E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432376675"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112105E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432395774"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112107E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432384004"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112109E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432379169"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112109E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432409030"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112113E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432372920"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112115E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432406889"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112121E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432364316"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112121E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432421172"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112123E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432364316"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112123E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432421172"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112124E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432374948"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112129E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432372066"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.411213E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432420373"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112131E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432539740"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112132E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432364316"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112132E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432365292"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112132E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432421172"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112135E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432419292"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112137E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432389943"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112138E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432371175"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4121125E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432531350"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4331707E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432377295"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.433171E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432365594"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4331714E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432377295"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.0213602E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432388782"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.0213604E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432367080"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.0213605E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432367080"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.0213605E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432388782"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2111001E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431626025"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2111003E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431626850"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2111025E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431623819"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2111025E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431623819"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2111035E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4843436221"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2111035E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4843436221"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2111045E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4843445921"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2111045E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4843445921"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2112004E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431885579"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2112004E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431885579"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2112012E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431633178"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2112023E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431633396"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2112027E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431632457"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2112031E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431633461"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2112049E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431631999"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2112065E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431633420"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.211207E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4456394425"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.211207E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4456394425"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2112074E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431633355"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2112079E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431633284"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2112084E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431633399"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2112085E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431633416"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2112102E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431634486"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2112115E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431633399"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2112119E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431633260"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2311768E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431623078"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2311768E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431623078"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2321711E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431629961"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2321711E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431629961"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2321713E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/517327916"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8333772E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4308836471"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8333772E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4308836471"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.811323E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432283755"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.811323E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432283755"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8113225E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432294661"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5332207E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431908411"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.5332207E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431908411"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112062E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432346437"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112038E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432345430"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112023E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432352199"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112104E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432346327"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112106E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4713347289"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112106E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4713347289"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112053E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4713347289"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112053E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4713347289"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112053E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4658796191"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112053E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4658796191"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112006E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4713344990"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112006E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4713344990"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112006E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4658796093"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112006E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4658796093"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3112045E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432357995"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3311701E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5899678211"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.3311701E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5899678211"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.9112039E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5110717927"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.411216E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432374174"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.411216E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432392546"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112164E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432374174"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112164E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432392546"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.411217E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432403495"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.4112133E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432376946"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7113444E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5464971025"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7113444E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/5464971025"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7113441E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431922504"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0121012E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/2396164835"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0121021E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/1605306739"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0121021E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/1605306739"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0122014E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432283445"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0122016E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432267340"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0122016E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432267340"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0122061E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432274794"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0311719E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/2417525884"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0311719E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/2417525884"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0321713E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/561071947"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0321723E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/1605246410"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0321723E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/1605246410"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0331714E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/1605310194"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0331714E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/1605310194"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0331714E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/1605310205"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0331714E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/1605310205"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0331748E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/6222106488"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0333701E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432272466"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0333701E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432272466"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.2213401E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/2424000744"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.2213401E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/2424000744"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.2213402E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/2424000744"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/4.2213402E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/2424000744"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0111017E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432545164"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0111061E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431636894"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0111201E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4128573526"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112034E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432544984"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112073E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431744739"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112091E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431768324"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112095E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432544972"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112123E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4621139290"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112123E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4621139290"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112133E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4493075889"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112133E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4493075889"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112181E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431762617"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112181E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431762617"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112181E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431782878"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112181E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431782878"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112181E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431792685"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112181E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431792685"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112182E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431717616"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112182E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431717616"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0112188E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432544815"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0311703E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432545121"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.0331707E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4609454892"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8113236E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432296987"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8333812E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4661082089"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/1.8333812E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/4661082089"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.1111017E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/504005959"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.1111017E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/504005959"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.1113056E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/504005959"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.1113056E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/504005959"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.2111088E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/3953398413"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.4111042E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/505095214"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.4111042E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/505095214"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.4111044E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/505095214"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.4111044E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/505095214"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.4111069E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/505096769"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.4111069E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/505096769"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.411107E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/505096769"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.411107E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/505096769"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.4111089E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/505095214"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.4111089E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/505095214"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.5113027E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/505026282"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.6111027E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/6077133387"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.6111028E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/6077133387"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.6113003E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/2614524950"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.6113004E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/2614524950"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.6114015E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/504252805"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.6114018E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/504252805"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.8111009E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/504264355"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7332716E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431858697"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.7332716E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431858697"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.2112071E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/431633102"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0331742E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/2424000724"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.0331742E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/2424000724"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.033276E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432290360"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/2.033276E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/432290360"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.2111101E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/3953398413"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.211209E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/505130802"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.2112092E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/505108812"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.2112099E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/505104718"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.2112099E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/505119529"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.2112107E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/505119529"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.mohe.ps/Schools/3.6114017E7">
+        <owl:sameAs rdf:resource="https://www.openstreetmap.org/node/504252805"/>
+    </rdf:Description>
+
+</rdf:RDF>

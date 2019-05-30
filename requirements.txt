@@ -11,3 +11,9 @@ boto3
 psycopg2
 uwsgi
 requests
+#kafka-python
+#opencv-contrib-python
+confluent-kafka
+#python-instagram
+#pinterest-client
+osmapi

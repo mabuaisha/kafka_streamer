@@ -17,8 +17,8 @@ import os
 
 from django.contrib import admin
 from django.urls import path
-import django.conf
-from django.conf.urls.static import static
+
+admin.site.site_header = 'Kafka Dashboard'
 
 urlpatterns = [
     path('admin/', admin.site.urls),

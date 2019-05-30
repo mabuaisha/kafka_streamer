@@ -38,16 +38,15 @@ INSTALLED_APPS = [
 LOGGING = {
     'version': 1,
     'disable_existing_loggers': False,
+    'root': {
+        'level': 'INFO',
+        'handlers': ['console', ],
+        'formatters': ['simple', ],
+    },
+
     'formatters': {
         'verbose': {
-            'format': '{levelname} {asctime}'
-                      ' {module} {process:d}'
-                      ' {thread:d} {message}',
-            'style': '{',
-        },
-        'simple': {
-            'format': '{levelname} {message}',
-            'style': '{',
+            'format': '%(levelname)s %(name)s: %(message)s',
         },
     },
     'filters': {
@@ -60,7 +59,7 @@ LOGGING = {
             'level': 'INFO',
             'filters': ['require_debug_true'],
             'class': 'logging.StreamHandler',
-            'formatter': 'simple'
+            'formatter': 'verbose'
         },
     },
     'loggers': {
@@ -198,3 +197,27 @@ STATICFILES_FINDERS = (
     'pipeline.finders.PipelineFinder',
 )
 
+
+# Kafka Settings
+CLOUDKARAFKA_BROKERS = os.environ['CLOUDKARAFKA_BROKERS']
+CLOUDKARAFKA_USERNAME = os.environ['CLOUDKARAFKA_USERNAME']
+CLOUDKARAFKA_PASSWORD = os.environ['CLOUDKARAFKA_PASSWORD']
+CLOUDKARAFKA_TIMEOUT = os.environ.get('CLOUDKARAFKA_TIMEOUT', 6000)
+CLOUDKARAFKA_PROTOCOL = os.environ.get('CLOUDKARAFKA_PROTOCOL', 'SASL_SSL')
+CLOUDKARAFKA_MECHANISMS = os.environ.get('CLOUDKARAFKA_PROTOCOL',
+                                         'SCRAM-SHA-256')
+
+CLOUDKARAFKA_TOPIC_CONFIG = {
+    'auto.offset.reset': 'smallest'
+}
+
+# KAFKA TOPICS
+CLOUDKARAFKA_TOPIC_OSM = os.environ.get('CLOUDKARAFKA_TOPIC_OSM')
+CLOUDKARAFKA_TOPIC_GEONAMES = os.environ.get('CLOUDKARAFKA_TOPIC_GEONAMES')
+CLOUDKARAFKA_TOPIC_SCHOOL = os.environ.get('CLOUDKARAFKA_TOPIC_SCHOOL')
+
+# Instagram config
+INSTAGRAM_CLIENT_ID = os.environ.get('INSTAGRAM_CLIENT_ID')
+INSTAGRAM_CLIENT_SECRET = os.environ.get('INSTAGRAM_CLIENT_SECRET')
+INSTAGRAM_ACCESS_TOKEN = os.environ.get('INSTAGRAM_ACCESS_TOKEN')
+INSTAGRAM_CODE = os.environ.get('INSTAGRAM_CODE')
