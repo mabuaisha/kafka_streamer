@@ -98,7 +98,6 @@ class Command(BaseCommand):
 
                         geoname.save()
                     except models.GeoName.DoesNotExist:
-                        logger.info('Print GeoNames {0}'.format(geoname_values))
                         models.GeoName.objects.create(**geoname_values)
 
                     sys.stderr.write('{0} [{1}] at offset {2}\n'

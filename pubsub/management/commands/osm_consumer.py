@@ -74,27 +74,30 @@ class Command(BaseCommand):
                     osm_item = osm_item.decode()
                     osm_item = json.loads(osm_item)
                     osm_values = {}
+
                     for key in OSM_KEYS:
                         value = osm_item.get(key) or ''
                         if key == 'id':
                             key = 'osm_id'
                         osm_values[key] = value
-
-                    osm, created = \
-                        models.OpenStreetMap.objects.get_or_create(
-                            **osm_values
+                    try:
+                        osm = models.OpenStreetMap.objects.get(
+                            osm_id=osm_values['osm_id']
                         )
-                    # If the object is not created
-                    if not created:
-                        for attr, value in osm_values.items():
+                        for attr, attr_val in osm_values.items():
+                            attr_val = attr_val or ''
                             if attr != 'osm_id':
-                                setattr(osm, attr, value or '')
-                                osm.save()
+                                setattr(osm, attr, attr_val)
+
+                        osm.save()
+                    except models.OpenStreetMap.DoesNotExist:
+                        models.GeoName.objects.create(**osm_values)
 
                     sys.stderr.write('{0} [{1}] at offset {2}\n'
                                      ''.format(msg.topic(),
                                                msg.partition(),
                                                msg.offset()))
+
                     logger.info(osm_item)
 
         except KeyboardInterrupt:
