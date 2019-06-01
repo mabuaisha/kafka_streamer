@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rdf:RDF xmlns:osm="https://raw.githubusercontent.com/birzeitknowledgegraph-2019/Ontology/master/osm_v2.rdf#"
-         xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:xsd="http://www.w3.org/2001/XMLSchema-datatypes">
     <rdf:Description rdf:about="https://www.openstreetmap.org/node/4466418798">
         <rdf:type rdf:resource="#node"/>
         <osm:id>4466418798</osm:id>
         <osm:latitude>31.5048236</osm:latitude>
+        <osm:longitude>34.4632304</osm:longitude>
         <osm:longitude>34.4632304</osm:longitude>
         <owl:sameAs rdf:resource="http://sws.geonames.org/8042091/"/>
         <osm:amenity>bank</osm:amenity>

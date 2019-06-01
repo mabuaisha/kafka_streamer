@@ -102,3 +102,31 @@ class School(django.db.models.Model):
         return self.school_id
 
 
+class WikiEntity(django.db.models.Model):
+    created_on = django.db.models.DateTimeField(auto_now_add=True)
+    updated_on = django.db.models.DateTimeField(auto_now=True)
+
+    wiki_id = django.db.models.CharField(max_length=100,
+                                         unique=True,)
+
+    osm = django.db.models.ForeignKey(OpenStreetMap,
+                                      null=True,
+                                      related_name='wiki_entities',
+                                      on_delete=django.db.models.CASCADE)
+
+    title = django.db.models.CharField(max_length=250, blank=True)
+    name = django.db.models.CharField(max_length=250, blank=True)
+    description = django.db.models.CharField(max_length=250, blank=True)
+    url = django.db.models.CharField(max_length=250, blank=True)
+    page_id = django.db.models.CharField(max_length=250, blank=True)
+    last_rev_id = django.db.models.CharField(max_length=250, blank=True)
+    ns = django.db.models.CharField(max_length=250, blank=True)
+    type = django.db.models.CharField(max_length=250, blank=True)
+    modified = django.db.models.CharField(max_length=250, blank=True)
+
+    class Meta:
+        verbose_name_plural = 'WikiEntities'
+        verbose_name = 'WikiEntity'
+
+    def __unicode__(self):
+        return self.wiki_id

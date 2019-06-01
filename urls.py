@@ -18,7 +18,7 @@ import os
 from django.contrib import admin
 from django.urls import path
 
-admin.site.site_header = 'Kafka Dashboard'
+admin.site.site_header = 'Kafka Streaming Dashboard'
 
 urlpatterns = [
     path('admin/', admin.site.urls),

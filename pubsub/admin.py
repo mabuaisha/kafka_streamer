@@ -110,3 +110,33 @@ class SchoolAdmin(django.contrib.admin.ModelAdmin):
                        'updated_on',
                        'school_id',
                        'osm')
+
+
+@django.contrib.admin.register(models.WikiEntity)
+class WikiEntityAdmin(django.contrib.admin.ModelAdmin):
+    list_display = ('wiki_id', 'osm_id',
+                    'title', 'name',
+                    'description', 'url',)
+    search_fields = ('wiki_id', 'osm__id',
+                     'title', 'name',
+                     'url', 'description',)
+    ordering = ('-created_on', )
+    fieldsets = (
+        ('Status', {
+            'fields': ('created_on', 'updated_on', 'wiki_id', 'osm'),
+        }),
+        ('Wiki Entity Information', {
+            'fields': ('title', 'name',
+                       'description', 'url',),
+        }),
+        ('Others', {
+            'fields': ('page_id',
+                       'last_rev_id',
+                       'ns', 'type',
+                       'modified'),
+        }),
+    )
+    readonly_fields = ('created_on',
+                       'updated_on',
+                       'wiki_id',
+                       'osm')
